@@ -5,3 +5,4 @@ StackOverFlow-Tag-Predictor
 - http://cs229.stanford.edu/proj2013/SchusterZhuCheng-PredictingTagsforStackOverflowQuestions.pdf
 - https://ieeexplore.ieee.org/document/8389059
 - https://colab.research.google.com/drive/1V9m8QFX2mxcFqkVuF6XFQQd7dD2atOx-
+- https://github.com/saicharanarishanapally/stack-overflow-tag-predictor/blob/master/SO%20Tag_Predictor.ipynb
