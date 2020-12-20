@@ -1,5 +1,4 @@
-# StackOverFlow Tag Predictor
-# Machine Learning Project
+# StackOverFlow Tag Predictor - Machine Learning Project
 
 **Keywords** - Stack Overflow, tags, prediction, SVM, Naive Bayes
 
