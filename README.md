@@ -1,9 +1,9 @@
 # StackOverFlow Tag Predictor - Machine Learning Project
 
 ## Authors
-- Navya Aggarwal | 2018349
-- Nitin Gupta | 2018251
-- Sandeep Kumar Singh | 2018363
+- [Navya Aggarwal](https://github.com/iamnavya-agg) | 2018349
+- [Nitin Gupta](https://github.com/nitin18251) | 2018251
+- [Sandeep Kumar Singh](https://github.com/itissandeep98) | 2018363
 
 ## Introduction
 
@@ -40,7 +40,29 @@ You need to have installed following softwares and libraries in your machine bef
 9. joblib
 10. pickle
 
-## How to run the project
+## Directory Structure
+
+### model
+This contains all the weights of all models which were trained on all specified datset sizes
+
+### code
+
+1. [EDA.ipynb](code/EDA.ipynb): It contains all the code needed to perform the exploratory data analysis on the dataset
+
+2. [datasetGeneration.ipynb](code/datasetGeneration.ipynb): It contains the code for creating the dataset for both preprocessing and vectorizing data and storing them in pickle files
+
+3. [SVM.ipynb](code/SVM.ipynb): It contains the code for running the Support vector machine model on the dataset both with the specified parameter and also using grid search.
+
+4. [Logistic.ipynb](code/Logistic.ipynb): It contains the code for running the Logistic regression model on the dataset both with the specified parameter and also using grid search.
+
+5. [DecisionTree.ipynb](code/DecisionTree.ipynb): It contains the code for running the Decision Tree model on the dataset both with the specified parameter and also using grid search.
+
+6. [Naive Bayes.ipynb](code/Naive%20Bayes.ipynb): It contains the code for running the Bernoulli Naive Bayes model on the dataset both with the specified parameter and also using grid search.
+
+7. [Analysis.ipynb](code/Analysis.ipynb): It contains the code for analysing the various models with various parameter and how they perform on changing various hyperparameters.
+
+8. [MLproject.ipynb](code/MLproject.ipynb)
+
 
 ## Links
 - https://www.researchgate.net/publication/338370635_TagStack_Automated_System_for_Predicting_Tags_in_StackOverflow 
