@@ -42,6 +42,16 @@ You need to have installed following softwares and libraries in your machine bef
 
 ## How to run the project
 
+Run the below ipynb files in the following order:
+1. EDA.ipynb
+2. datasetGeneration.ipynb
+3. SVM.ipynb
+4. Logistic.ipynb
+5. DecisionTree.ipynb
+6. Naive Bayesipynb
+7. Analysis.ipynb
+8. MLproject.ipynb (option, older file with all missing components)
+
 ## Links
 - https://www.researchgate.net/publication/338370635_TagStack_Automated_System_for_Predicting_Tags_in_StackOverflow 
 - https://github.com/gauravtheP/Stackoverflow-Tag-Prediction
