@@ -2,6 +2,11 @@
 
 **Keywords** - Stack Overflow, tags, prediction, SVM, Naive Bayes
 
+## Authors
+- Navya Aggarwal | 2018349
+- Nitin Gupta | 2018251
+- Sandeep Kumar Singh | 2018363
+
 ## Links
 - https://www.researchgate.net/publication/338370635_TagStack_Automated_System_for_Predicting_Tags_in_StackOverflow 
 - https://github.com/gauravtheP/Stackoverflow-Tag-Prediction
