@@ -50,7 +50,7 @@ Run the below ipynb files in the following order:
 5. DecisionTree.ipynb
 6. Naive Bayesipynb
 7. Analysis.ipynb
-8. MLproject.ipynb (option, older file with all missing components)
+8. MLproject.ipynb (option, intermediary file with all components(jumbled))
 
 ## Links
 - https://www.researchgate.net/publication/338370635_TagStack_Automated_System_for_Predicting_Tags_in_StackOverflow 
