@@ -1,4 +1,8 @@
-StackOverFlow-Tag-Predictor
+# StackOverFlow Tag Predictor
+# Machine Learning Project
+
+**Keywords** - Stack Overflow, tags, prediction, SVM, Naive Bayes
+
 ## Links
 - https://www.researchgate.net/publication/338370635_TagStack_Automated_System_for_Predicting_Tags_in_StackOverflow 
 - https://github.com/gauravtheP/Stackoverflow-Tag-Prediction
