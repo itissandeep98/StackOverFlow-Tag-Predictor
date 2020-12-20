@@ -24,6 +24,17 @@ For the purpose of this project we have used a subset of the dataset due to comp
 The dataset is preprocessed using various Natural Language Processing like lemmetization, tokenization, vectorization, removing stop words and many more such techniques. The final datasets are stored and used to train the machine learning models. Further, using these trained models we predict the tags of questions and report accuracy, macro-F1 score and micro-F1 score.
 
 ## Prerequisites
+You need to have installed following softwares and libraries in your machine before running this project:
+1. python 3
+2. pandas
+3. numpy
+4. nltk
+5. seaborn
+6. matplotliib
+7. wordcloud
+8. sklearn
+9. joblib
+10. pickle
 
 ## How to run the project
 
