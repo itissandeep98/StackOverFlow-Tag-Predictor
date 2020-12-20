@@ -10,7 +10,11 @@
 **Keywords** - Stack Overflow, tags, prediction, SVM, Naive Bayes
 
 Stack Overflow is the largest, most trusted online community for developers, students, and other educationists throughout the world. It is an educational resource available to everybody to clarify doubts, ask questions, answer questions, vote questions, and answers up or down and similarly, post questions and answers like Wiki or Quora.
+
+
 For each question on StackOverflow, tags are used to relate different questions to categories. Tags are assigned to questions by users only. These tags are very important as they help associating questions to categories. Therefore, a question needs to be given the most approprieate tags.
+
+
 In this project we aim to develop a predictor that predicts tags for questions. In order to achieve the same, we use a dataset of questions and tags and learn machine learning models like Naive Bayes, Logistic Regression, Decision Trees and SVM to predict tags for new questions.
 
 ## Dataset Overview
